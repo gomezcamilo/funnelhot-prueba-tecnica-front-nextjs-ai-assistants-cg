@@ -34,6 +34,7 @@ La aplicación estará disponible en `http://localhost:3000`
 - **Iconos**: Lucide React
 - **Persistencia**: LocalStorage
 - **Fuentes**: Inter + Space Grotesk (Google Fonts)
+- **PWA**: Progressive Web App (instalable en dispositivos)
 
 ## 📁 Estructura del Proyecto
 
@@ -223,6 +224,13 @@ nextjs-ai-assistants/
 - **Features cards**: Asistentes IA, Automatización, Conversiones
 - **Responsive**: Adaptado para móvil y desktop
 - **Persistencia**: Se muestra solo en primera visita
+
+#### 📱 Progressive Web App (PWA)
+- **Instalable**: La aplicación puede instalarse en dispositivos móviles y desktop
+- **Standalone**: Se ejecuta como aplicación nativa sin barra de navegador
+- **Iconos optimizados**: Iconos para iOS y Android (192x192, 512x512)
+- **Theme color**: Integración con el tema oscuro del sistema
+- **Apple Web App**: Soporte completo para dispositivos iOS
 
 #### 🔍 Buscador de Asistentes
 - **Input de búsqueda** en el dashboard
